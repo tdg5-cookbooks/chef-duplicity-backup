@@ -13,6 +13,6 @@ source_url 'https://github.com/ingenerator/chef-duplicity-backup'
 end
 
 depends 'python'
-depends 'database',   '~> 2.3.1'
+depends 'database',   '~> 2.3.0'
 depends 'mysql',      '~> 5.6.1'
 depends 'postgresql'
